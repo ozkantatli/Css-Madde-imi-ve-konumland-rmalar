@@ -1,0 +1,23 @@
+.sabitle{
+    position: relative;
+    z-index: -1;
+    top:30px;
+    right: 5px;
+}
+
+#kutu1{
+    width: 500px;
+    height: 300px;
+    background-color: #ff0;
+}
+li{
+    font-size: 20px;
+    list-style-type:lower-latin;
+}
+
+ul{
+    margin-left: 50px;
+    font-size: 20px;
+    list-style-image:url("fil.png");
+}
+
